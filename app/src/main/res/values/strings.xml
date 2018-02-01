@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Animal training</string>
+    <string name="ListNumber">List Number</string>
+    <string name="Gallery">Gallery</string>
+    <string name="AddListNum">Add</string>
+    <string name="titleAddMenu">افزودن مخاطب جدید</string>
+    <string name="edtname">نام</string>
+    <string name="edtnumber">شماره همراه</string>
+    <string name="UpdateListNum">Update</string>
+    <string name="titleUpdateMenu">ویرایش مخاطب</string>
+    <string name="animal">حیوانات</string>
+    <string name="color">رنگ</string>
+    <string name="fruit">میوه</string>
+    <string name="jobs">مشاغل</string>
+    <string name="shapes">اشکال هندسی</string>
+    <string name="things">اشیاء</string>
+</resources>
